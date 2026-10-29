@@ -1,0 +1,22 @@
+{
+  "slug": "kono-says",
+  "name": "Kono Says",
+  "wordmark": "KONO",
+  "subject": "Taro Kono",
+  "handle": "konotarogomame",
+  "initials": "TK",
+  "color": "#526d86",
+  "profile": "https://x.com/konotarogomame",
+  "origin": "https://nanalab.kr/kono-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

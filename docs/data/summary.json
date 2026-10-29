@@ -1,0 +1,253 @@
+{
+  "slug": "kono-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 365,
+  "first": "2026-08-03",
+  "last": "2026-10-28",
+  "exact_time": 365,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies",
+      "sha256": "97d77a176714e98835bbc63d2f5085cd5d8db129e981c04022b1b7522d9e54b6",
+      "timeline_items": 25,
+      "accepted": 19,
+      "excluded": {
+        "other-author-or-unverified": 5,
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__-wLAAIAAAATMjExMzQxNjY0MDE4ODg1ODQ4NwgAAwAAAAIAAA",
+      "sha256": "3d649de1a62f81ef7a6d8f37c4ced9dda7f653d4eafd9144b6ae7978870ba72c",
+      "timeline_items": 33,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 2,
+        "other-author-or-unverified": 11,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__9kLAAIAAAATMjExMTY3NDY2Mjk3OTgyMTYyNAgAAwAAAAIAAA",
+      "sha256": "13aa5e51bd4ba999be13844a132c6b910f67792c2527c6cb85e2311ff1c22628",
+      "timeline_items": 31,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 4,
+        "repost": 1,
+        "other-author-or-unverified": 8
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__8YLAAIAAAATMjEwOTU1MDM4NTA5ODgwOTU5OQgAAwAAAAIAAA",
+      "sha256": "71aa9891ebd2e48693932807395e9690a15248cc7325e4e277bcafc214fef93e",
+      "timeline_items": 37,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 7,
+        "other-author-or-unverified": 11
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__7MLAAIAAAATMjEwODQ0NTEwOTMzOTc4NzUxOQgAAwAAAAIAAA",
+      "sha256": "19a9ec5c91e0921a45c21c88fec9f00c86c5ba91dce68b7135e601d3b752f9f0",
+      "timeline_items": 27,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 6,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__6ILAAIAAAATMjEwNjUyNTQ1MzUxMTIxMzE0NwgAAwAAAAIAAA",
+      "sha256": "4df4cfd2ab0d9163ba7ff6d2025db79510dba5447630a26f5cda941d0bf6593d",
+      "timeline_items": 24,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__48LAAIAAAATMjEwNDc3ODI3NjQ1MTU1MzU2MQgAAwAAAAIAAA",
+      "sha256": "b2bbaae87fe4918dcd5806bff69559a05c47ad9d1aad791a1ff934fd85aa45a0",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__3wLAAIAAAATMjEwMzI2NDU2NzgwMzY3MDgxMAgAAwAAAAIAAA",
+      "sha256": "a1c421bfd75c2355d52502409f72f9c57fa421f19d0b4cf7137e9be66009fa1c",
+      "timeline_items": 27,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 3,
+        "repost": 1,
+        "other-author-or-unverified": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__2gLAAIAAAATMjEwMTAzMDY5NTAxMTU5NDM3NQgAAwAAAAIAAA",
+      "sha256": "54c7858e5c3160ec1ce16437686a4eb9c7223d157d5069001e90311e0bcc6221",
+      "timeline_items": 25,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 2,
+        "other-author-or-unverified": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__1QLAAIAAAATMjA5ODk1Mjk2NzY2ODA2NDUzMwgAAwAAAAIAAA",
+      "sha256": "631ac658383e981fc16dd3db4a8a2d128346e05ab6956d174b832e83300c5d66",
+      "timeline_items": 22,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 2,
+        "other-author-or-unverified": 3,
+        "repost": 3,
+        "quote-without-authored-content": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__0ILAAIAAAATMjA5NjU3ODkzMDQ4ODg1Njg3NAgAAwAAAAIAAA",
+      "sha256": "6b5953326aa4bcb93cb1bf9839c4e67db94363d1845c9f6d37451183db0b6332",
+      "timeline_items": 31,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 2,
+        "other-author-or-unverified": 10
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__y8LAAIAAAATMjA5MzUzNjA1NTQwMDI0NzM5NwgAAwAAAAIAAA",
+      "sha256": "6f047457d5f6c8280efda33eca71b461512f6ff164a3b452130de5b88c2b46f0",
+      "timeline_items": 37,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 5,
+        "other-author-or-unverified": 12
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__xwLAAIAAAATMjA5MjQ2MDE4MzA2Mjc1MzQxMggAAwAAAAIAAA",
+      "sha256": "3f1f8c489d9c3f29a475a50d5c1eda0d602c533e55966f237cb1e165021d3aa6",
+      "timeline_items": 34,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 5,
+        "other-author-or-unverified": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__wgLAAIAAAATMjA5MTQ2MjE2MzY0Mjk0OTg5OAgAAwAAAAIAAA",
+      "sha256": "94f91cc50490751904206d5623043fab06f6ab71557d827ff90d80e483693993",
+      "timeline_items": 27,
+      "accepted": 21,
+      "excluded": {
+        "missing-author-or-permalink": 2,
+        "other-author-or-unverified": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__vQLAAIAAAATMjA5MDcwNjQ4OTQwNTMyNTY0NAgAAwAAAAIAAA",
+      "sha256": "8f361cf994d9d336e7039a034deb9f7732076bbce63daf462a65bc5b3f0d1345",
+      "timeline_items": 29,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 4,
+        "other-author-or-unverified": 7,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__uELAAIAAAATMjA4OTY0MDUwNzQxNjk0MDgzNwgAAwAAAAIAAA",
+      "sha256": "453d03e25792ba29dd7f5e6fb5968d89c2746941a4b235db9be33b811c952eec",
+      "timeline_items": 37,
+      "accepted": 21,
+      "excluded": {
+        "missing-author-or-permalink": 5,
+        "other-author-or-unverified": 11
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__s0LAAIAAAATMjA4ODkwNzQ4NDA5NDQ3MjU2NQgAAwAAAAIAAA",
+      "sha256": "655f8020cc9d7961d1fedbad194beb36e962e57bb46d8caf90f2c6f8ac891dd7",
+      "timeline_items": 24,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 5,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__roLAAIAAAATMjA4NzkxOTI1MTI5MDIyNzA5NAgAAwAAAAIAAA",
+      "sha256": "c8a5075c5f476c255d9b162d4c608cfda9f6224c70573454e0aef0a9ca4f0f37",
+      "timeline_items": 24,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 2,
+        "other-author-or-unverified": 2,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__qYLAAIAAAATMjA4NjI3Nzk2NTI2NTE0MjE4MwgAAwAAAAIAAA",
+      "sha256": "6b45237b26fc2104233596542bae03fc2efbe72fcb49e918f1aea7d87c6bac83",
+      "timeline_items": 14,
+      "accepted": 12,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/konotarogomame/with_replies?cursor=DAAHCgABHVwYrJh__pgLAAIAAAATMjA4NDk2OTcxNTU3NjAzMzMwNAgAAwAAAAIAAA",
+      "sha256": "1453f1304a7c17d02eef6db987fd089099269c95f5d01fdebb22172a9f611334",
+      "timeline_items": 36,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 4,
+        "other-author-or-unverified": 12
+      }
+    }
+  ],
+  "excluded": {
+    "other-author-or-unverified": 127,
+    "missing-author-or-permalink": 55,
+    "repost": 14,
+    "quote-without-authored-content": 1
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand.",
+  "subject": "Taro Kono",
+  "account": "konotarogomame",
+  "platform_counts": {
+    "x": 365
+  },
+  "days": 81,
+  "months": 3,
+  "content_mode": "official_embeds"
+}
